@@ -10,15 +10,6 @@ document.addEventListener("DOMContentLoaded", () => {
       ],
     },
     {
-        question: "What activity would you find most rewarding?",
-        options: [
-          { text: "Solving intellectual puzzles and brain-teasers.", varna: "Brahmin" },
-          { text: "Competitive team sports.", varna: "Kshatriya" },
-          { text: "Strategic games that involve trading or finance.", varna: "Vaishya" },
-          { text: "Crafting or DIY projects.", varna: "Shudra" },
-        ],
-    },
-    {
         question: "How do you handle conflicts or disagreements?",
         options: [
           { text: "Taking charge and taking decisive actions.", varna: "Kshatriya" },
@@ -37,6 +28,33 @@ document.addEventListener("DOMContentLoaded", () => {
         ],
     },
     {
+      question: "What activity would you like to do in your free time?",
+      options: [
+        { text: "Reading or jounaling.", varna: "Brahmin" },
+        { text: "Competitive team sports.", varna: "Kshatriya" },
+        { text: "Strategic board games.", varna: "Vaishya" },
+        { text: "Crafting or DIY projects.", varna: "Shudra" },
+      ],
+  },
+    {
+      question: "What kind of movies or TV shows would you prefer?",
+      options: [
+        { text: "Sitcoms and reality TV shows", varna: "Shudra" },
+        { text: "Entrprenurial and business reality shows or movies.", varna: "Vaishya" },
+        { text: "Documentaries and educational content.", varna: "Brahmin" },
+        { text: "Action-packed, adventure, or sports-related films.", varna: "Kshatriya" },
+      ],
+    },
+    {
+      question: "How do you learn best?",
+      options: [
+        { text: "Reading textbooks and academic resources.", varna: "Brahmin" },
+        { text: "Hands-on projects and real-life applications.", varna: "Shudra" },
+        { text: "Competitive environments and challenges.", varna: "Kshatriya" },
+        { text: "Analyzing case studies and evaluating statistical outcomes.", varna: "Vaishya" },
+      ],
+    },
+    {
         question: "What career would appeal to you the most?",
         options: [
           { text: "Marketing Specialist or Salesperson.", varna: "Vaishya" },
@@ -47,6 +65,17 @@ document.addEventListener("DOMContentLoaded", () => {
     },
   ];
 
+  const varnaDescriptions = {
+    Brahmin: "Brahmins are often associated with intellectual and spiritual pursuits. They value learning, knowledge, and wisdom, and they tend to gravitate toward research, teaching, and roles that involve deep thinking.",
+    Kshatriya: "Kshatriyas are natural leaders and warriors. They thrive in roles that involve responsibility, ambition, and a desire to lead others. They are decisive, courageous, and often prefer action-oriented tasks.",
+    Vaishya: "Vaishyas are resourceful and thrive in business, trade, and financial matters. They are often entrepreneurial, managing resources, and enjoy activities that involve negotiation, strategy, and innovation.",
+    Shudra: "Shudras are practical, hands-on workers who find fulfillment in tasks that support others and meet practical needs. They excel in roles that involve craftsmanship, administrative tasks, or technical support."
+  };
+
+  const quizContainer = document.getElementById("quiz-form");
+  const resultContainer = document.getElementById("result");
+  const submitButton = document.getElementById("submit");
+
   let currentQuestionIndex = 0;
   let score = {
     Brahmin: 0,
@@ -54,10 +83,6 @@ document.addEventListener("DOMContentLoaded", () => {
     Vaishya: 0,
     Shudra: 0,
   };
-
-  const quizContainer = document.getElementById("quiz-form");
-  const resultContainer = document.getElementById("result");
-  const submitButton = document.getElementById("submit");
 
   function renderQuestion(index) {
     // Clear previous question
@@ -88,9 +113,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
     quizContainer.appendChild(questionElement);
 
-    // Change button text on the last question
+    // Change button text when the last question is displayed
     if (index === quizQuestions.length - 1) {
-      submitButton.textContent = "See My Result";
+      submitButton.textContent = "See My Result";  // Button text changes immediately when the last question is shown
+    } else {
+      submitButton.textContent = "Next";  // Ensure "Next" text is shown on earlier questions
     }
   }
 
@@ -113,10 +140,17 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function displayResult() {
     quizContainer.innerHTML = ""; // Clear the quiz container
-    const maxVarna = Object.keys(score).reduce((a, b) =>
-      score[a] > score[b] ? a : b
-    );
-    resultContainer.textContent = `Your Varna is: ${maxVarna}`;
+    submitButton.style.display = "none";
+
+    const maxVarna = Object.keys(score).reduce((a, b) => {
+      return score[a] >= score[b] ? a : b;
+    });
+
+    // Fetch the description for the chosen varna
+    const varnaDescription = varnaDescriptions[maxVarna];
+
+    // Display the result
+    resultContainer.innerHTML = `<h2>Your Varna is: ${maxVarna}</h2><p class="varna-description">${varnaDescription}</p>`;
   }
 
   renderQuestion(currentQuestionIndex);
