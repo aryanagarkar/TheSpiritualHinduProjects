@@ -65,6 +65,8 @@ input[type="radio"] {
 }
 
 button {
+  display: block; 
+  margin: 0 auto;
   background-color: #FFC101;
   color: black;
   padding: 10px 20px;
@@ -89,7 +91,7 @@ button:hover {
 
 .varna-description {
   font-size: 18px;
-  color: #45a049;
+  color: #FFC101;
 }
 
 button:disabled {
