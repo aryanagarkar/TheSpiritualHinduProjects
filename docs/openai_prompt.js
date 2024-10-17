@@ -56,14 +56,13 @@ class OpenAIClient {
 async function main() {
   const client = new OpenAIClient();
   const prompt =
-    "Please generate a question about science with four possible answers. Format the answers in the following format: {answer, varna).";
+    "I am creating a survey to determine someone's Varna based on their aptitudes and skillset. My target audience for this survey is people aged 20 to 50, mostly Indian, who have a mindset of a seeker and are eager to learn. Please generate ten engaging questions that fit this criteria. Each question should have 4 answer choices, each of them corresponding to a different Varna. Format the questions and answers in the following format: {question} \n 1. {answer}, {varna} \n 2. {answer}, {varna} \n 3. {answer}, {varna} \n 4. {answer}, {varna}.";
 
   try {
     const response = await client.sendTextCompletionRequest(prompt);
 
     // Access the generated message text
     const message = response.choices[0].message.content; // Accessing the generated content
-    console.log("Generated Question and Answers:", message);
   } catch (error) {
     console.error("Error:", error);
   }

@@ -1,5 +1,59 @@
-Which of the following is the largest planet in our solar system by volume? 
-{Jupiter, A}
-{Mars, B}
-{Saturn, C}
-{Earth, D}
+1. In your free time, what activity brings you the most joy?
+   1. Reading and studying new topics, Brahmin
+   2. Engaging in leadership or decision-making roles, Kshatriya
+   3. Creating or crafting something with your hands, Vaishya
+   4. Helping others and serving the community, Shudra
+
+2. What motivates you the most in your work or studies?
+   1. Seeking knowledge and wisdom, Brahmin
+   2. Achieving goals and overcoming challenges, Kshatriya
+   3. Financial success and stability, Vaishya
+   4. Working in a supportive team environment, Shudra
+
+3. How do you approach decision-making in a group setting?
+   1. By analyzing all options thoroughly, Brahmin
+   2. By taking charge and providing direction, Kshatriya
+   3. By evaluating the practical benefits, Vaishya
+   4. By supporting others' ideas and contributing as a team, Shudra
+
+4. What type of learning style do you find most effective?
+   1. Engaging in deep discussions and debates, Brahmin
+   2. Hands-on experiences and practical applications, Kshatriya
+   3. Structured lessons and clear objectives, Vaishya
+   4. Collaborative group activities and shared knowledge, Shudra
+
+5. How do you prefer to contribute to society?
+   1. By spreading knowledge and awareness, Brahmin
+   2. By protecting and defending others, Kshatriya
+   3. By creating job opportunities and economic growth, Vaishya
+   4. By providing essential services and support, Shudra
+
+6. What type of role do you naturally assume in group projects?
+   1. The researcher and knowledge sharer, Brahmin
+   2. The leader and decision-maker, Kshatriya
+   3. The entrepreneur and strategist, Vaishya
+   4. The supportive team player, Shudra
+
+7. Which of the following values do you prioritize in your personal or professional life?
+   1. Intellectual growth and spiritual development, Brahmin
+   2. Courage and valor in facing challenges, Kshatriya
+   3. Material prosperity and financial security, Vaishya
+   4. Service and empathy towards others, Shudra
+
+8. How do you respond to adversity or obstacles in your path?
+   1. Seeking guidance from higher sources or inner wisdom, Brahmin
+   2. Confronting challenges head-on with determination, Kshatriya
+   3. Finding practical solutions through resourceful means, Vaishya
+   4. Seeking support and cooperation from others, Shudra
+
+9. What aspect of a project or task do you find most rewarding?
+   1. Acquiring new knowledge and insights, Brahmin
+   2. Achieving success and recognition for your efforts, Kshatriya
+   3. Generating profit or seeing tangible results, Vaishya
+   4. Building relationships and contributing to a shared goal, Shudra
+
+10. How do you prefer to approach learning new skills or subjects?
+   1. Deep diving into theoretical concepts and philosophical discussions, Brahmin
+   2. Taking on challenges that test your strength and courage, Kshatriya
+   3. Investing time in practical skills that can lead to financial stability, Vaishya
+   4. Collaborating with others to learn and grow together, Shudra
