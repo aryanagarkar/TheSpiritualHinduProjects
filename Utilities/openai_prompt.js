@@ -15,8 +15,7 @@ class OpenAIClient {
     const messageContent = response.choices[0].message.content;
 
     // Write the message content to a text file inside this method
-    fs.writeFileSync('questions.txt', messageContent, 'utf-8');
-    console.log("Response saved to questions.txt");
+    fs.writeFileSync('questions_1.txt', messageContent, 'utf-8');
 
     return response; // Return the full response for further use if needed
   }
@@ -56,13 +55,13 @@ class OpenAIClient {
 async function main() {
   const client = new OpenAIClient();
   const prompt =
-    "I am creating a survey to determine someone's Varna based on their aptitudes and skillset. My target audience for this survey is people aged 20 to 50, mostly Indian, who have a mindset of a seeker and are eager to learn. Please generate ten engaging questions that fit this criteria. Each question should have 4 answer choices, each of them corresponding to a different Varna. Format the questions and answers in the following format: {question} \n 1. {answer}, {varna} \n 2. {answer}, {varna} \n 3. {answer}, {varna} \n 4. {answer}, {varna}.";
+    "I am creating a survey to determine someone's Varna based on their aptitudes and skillset. My target audience for this survey is people aged 20 to 50, mostly Indian, who have a mindset of a seeker and are eager to learn. Please generate ten engaging questions that fit this criteria. Each question should have 4 answer choices, each of them corresponding to a different Varna. These questions should be easy for a 20 year old who doesn't have a job to understand, as well as 40 year old adult who has one. Format the questions and answers in the following format: {question} \n 1. {answer}, {varna} \n 2. {answer}, {varna} \n 3. {answer}, {varna} \n 4. {answer}, {varna}.";
 
   try {
     const response = await client.sendTextCompletionRequest(prompt);
 
     // Access the generated message text
-    const message = response.choices[0].message.content; // Accessing the generated content
+    const message = response.choices[0].message.content; // Accessing the generated conten
   } catch (error) {
     console.error("Error:", error);
   }

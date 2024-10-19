@@ -1,0 +1,59 @@
+1. In which activity do you feel most fulfilled?
+ 1. Creating art, Artist
+ 2. Solving complex problems, Brahmin
+ 3. Helping others, Kshatriya
+ 4. Managing finances, Vaishya
+
+2. How do you prefer to spend your free time?
+ 1. Reading and studying, Brahmin
+ 2. Engaging in physical activities or sports, Kshatriya
+ 3. Exploring new business opportunities, Vaishya
+ 4. Practicing a creative hobby, Artist
+
+3. When faced with a challenge, what is your initial reaction?
+ 1. Analyzing the situation and strategizing a solution, Brahmin
+ 2. Jumping in to take action, Kshatriya
+ 3. Evaluating potential risks and rewards, Vaishya
+ 4. Expressing emotions and seeking harmony, Artist
+
+4. How do you approach decision-making?
+ 1. Relying on logic and reason, Brahmin
+ 2. Trusting instinct and intuition, Kshatriya
+ 3. Weighing pros and cons, Vaishya
+ 4. Considering emotional factors, Artist
+
+5. What motivates you to learn new skills?
+ 1. Seeking knowledge for its own sake, Brahmin
+ 2. Desire for personal growth and improvement, Kshatriya
+ 3. Goal of financial success, Vaishya
+ 4. Expressing creativity and self-expression, Artist
+
+6. How do you prefer to contribute to a team project?
+ 1. Providing expertise and knowledge, Brahmin
+ 2. Taking a leadership role, Kshatriya
+ 3. Focusing on organization and coordination, Vaishya
+ 4. Offering creative ideas and solutions, Artist
+
+7. What type of learning environment do you thrive in?
+ 1. Structured and focused on theory, Brahmin
+ 2. Dynamic and hands-on, Kshatriya
+ 3. Practical and results-oriented, Vaishya
+ 4. Creative and expressive, Artist
+
+8. How do you handle stress or pressure?
+ 1. Seeking solitude and reflection, Brahmin
+ 2. Facing challenges head-on, Kshatriya
+ 3. Channeling energy into work or projects, Vaishya
+ 4. Engaging in artistic or creative outlets, Artist
+
+9. What aspect of a task interests you the most?
+ 1. Understanding the underlying principles, Brahmin
+ 2. Overcoming obstacles and achieving goals, Kshatriya
+ 3. Identifying opportunities for growth or profit, Vaishya
+ 4. Expressing individuality and uniqueness, Artist
+
+10. In a leadership role, how would you motivate your team?
+ 1. Encouraging continuous learning and development, Brahmin
+ 2. Inspiring courage and action, Kshatriya
+ 3. Offering incentives and rewards for success, Vaishya
+ 4. Fostering creativity and innovation, Artist.
