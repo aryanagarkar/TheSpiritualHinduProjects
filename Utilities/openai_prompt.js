@@ -15,7 +15,7 @@ class OpenAIClient {
     const messageContent = response.choices[0].message.content;
 
     // Write the message content to a text file inside this method
-    fs.writeFileSync('questions_1.txt', messageContent, 'utf-8');
+    fs.writeFileSync('questions_2.txt', messageContent, 'utf-8');
 
     return response; // Return the full response for further use if needed
   }
