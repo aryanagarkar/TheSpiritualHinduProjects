@@ -4,7 +4,6 @@ from youtube_transcript_api import YouTubeTranscriptApi
 from youtube_transcript_api._errors import TranscriptsDisabled
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
-# video_id_1 = '7oWip00iXbo'
 
 def read_transcript_from_file(file_path):
     try:
@@ -14,11 +13,11 @@ def read_transcript_from_file(file_path):
         print(f"Error reading file: {e}")
         return ""
 
-def clean_transcript(full_text):
-    chunk_size = 14000  # Adjust size to stay within token limits.
+def clean_transcript(full_text, fileToWrite):
+    chunk_size = 14000  
     chunks = [full_text[i:i + chunk_size] for i in range(0, len(full_text), chunk_size)]
 
-    with open("cleaned_transcript.txt", "a", encoding="utf-8") as file:
+    with open(fileToWrite, "a", encoding="utf-8") as file:
         for chunk in chunks:
             try:
                 response = openai.ChatCompletion.create(
@@ -37,11 +36,11 @@ def clean_transcript(full_text):
             except Exception as e:
                 print(f"An unexpected error occurred: {e}")
 
-def analyze_transcript(full_text):
-    chunk_size = 10000  # Adjust size to stay within token limits.
+def analyze_transcript(full_text, fileToWrite):
+    chunk_size = 10000  
     chunks = [full_text[i:i + chunk_size] for i in range(0, len(full_text), chunk_size)]
 
-    with open("analysis_of_transcript.txt", "a", encoding="utf-8") as file:
+    with open(fileToWrite, "a", encoding="utf-8") as file:
         for chunk in chunks:
             try:
                 response = openai.ChatCompletion.create(
@@ -60,7 +59,7 @@ def analyze_transcript(full_text):
             except Exception as e:
                 print(f"An unexpected error occurred: {e}")
 
-#full_text_1 = read_transcript_from_file("Video1JacobBarandes.txt")
-#clean_transcript(full_text_1)
+#full_text_1 = read_transcript_from_file("Transcripts/Video1JacobBarandes.txt")
+#clean_transcript(full_text_1, "Video1_Cleaned_Transcript.txt")
 full_cleaned_text_1 = read_transcript_from_file("Video1_Cleaned_Transcript.txt")
-analyze_transcript(full_cleaned_text_1)
+analyze_transcript(full_cleaned_text_1, "Video1_Analysis.txt")
