@@ -1,4 +1,4 @@
-#!/Users/nagarkar/workspace/VideoAnalysis/venv/bin/python3.12
+#!/Users/nagarkar/workspace/TheSpiritualHinduProjects/VideoAnalysis/venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
