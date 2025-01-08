@@ -1,0 +1,258 @@
+Interview Transcript:
+
+Host (Curt Jaimungal): Welcome, Professor Michael Levin. What's one of the biggest myths in biology that you, with your research and your lab, are helping to overturn?
+
+Michael Levin: Hi, Curt. Great to see you again. I think one of the biggest myths in biology is that the best explanations come at the level of molecules. This biochemistry, what they call molecular mechanism, is usually currently taken to be the gold standard of what we're looking for in terms of explanations. But I think in most cases, it's not the right level. Dennis Noble has a really interesting set of papers and talks on biological relativity. This idea that different levels of explanation in biology provide the most bang for the buck. I think we really need to go beyond the molecular level for many of these things.
+
+Curt Jaimungal: What's the difference between weak emergence and strong emergence?
+
+Michael Levin: Emergence in general is basically just the measure of surprise for the observer. A phenomenon is considered emergent by us if whatever it's doing was something that we didn't anticipate. It's relative. I don't think emergence is an absolute thing that is either there or isn't, or is weak or strong. It's just a measure of the amount of surprise, how much extra is the system doing that you, knowing the rules and the various properties of its parts, didn't see coming. That's emergence.
+
+Curt Jaimungal: Would you say then that biology has physics fundamentally? So it goes biology, chemistry, physics?
+
+Michael Levin: People have certainly made that kind of ladder. I'm not sure what we can do with that. I think that these different levels have their own types of concepts that are useful for understanding what's going on, and they have their own autonomy. That's really important. I think there's a lot of utility in considering how some of these higher levels are autonomous and they do things that the lower levels don't do. That gives us experimental power.
+
+Curt Jaimungal: Would you say that there's something that the lower levels don't do in principle or in practice? For instance, is there something that a cell is doing that in principle can't be derived from the underlying chemistry, which in principle can't be derived from the underlying physics?
+
+Michael Levin: It really depends on what you mean by "derive". For example, there are certainly aspects of cognitive functions that we normally associate with fairly complex creatures' brains that we are now seeing in very simple basal media. So even something as simple as a gene regulatory network can have six different kinds of learning and memory, for example, Pavlovian conditioning. You can always tell a chemistry story about any effect. In fact, you could also tell a physics story as well. But the more interesting thing about that story is that you actually can use paradigms from behavioral science such as learning and conditioning and communication, and that lets you do way more than if you were to restrict yourself to an understanding at the level of mechanism.
+
+Curt Jaimungal: You said you could always tell a chemistry story or you could always tell a physics story to explain some biological process, but you can't always tell a biological story to something that's physics related. So what people would consider more fundamental or what gives rise to the rest in terms of ontology would be, well, can you tell a story in terms of so and so? Do you agree with that or do you disagree with that?
+
+Michael Levin: I think that's somewhat true, although it's not as true as we think. Oftentimes you actually can tell an interesting story cashed out in the terms of behavioral science, for example, inference, for various learning modalities, of objects that are really thought to be the domain of physics and chemistry. But it is also the case that the fact that you can tell a physics story doesn't mean that there's that much value in it necessarily. For example, imagine that there's a chess game going on. You could absolutely tell the story of that chess game in terms of particle movement or maybe quantum foam. But how much does that help you in playing the next game of chess? Almost not at all. It's if your goal is to understand what happened at the physical level, yes, you can tell a story about all the atoms that were pushing and pulling and all of that. But if your goal is to understand the large-scale rules of the game of chess, the principles, and more importantly, to play the next game of chess better than what you just witnessed, that story is almost completely useless to you.
+
+Curt Jaimungal: What would be the analogy here for the rules of chess? What are you trying to understand the rules of? Biology? Developmental biology? Cellular biology?
+
+Michael Levin: The thing that ties all of our work together is really an effort to understand embodied mind. We do a lot of different things: we do cancer biology, we do developmental biology, we do regeneration, aging, not to mention AI and some other things. What ties it all together is the effort to understand intelligence. All of those things are really different ways that intelligence is embodied in the physical world. For example, when we made xenobots and anthr robots, our goal with all of these kinds of synthetic constructs is to understand where the goals of novel systems come from. So typically, when you have a natural plant or animal and it's doing various things, not only the structure and the behavior of that organism but also whatever goals it may have, we typically think of are driven by an evolutionary past. So the reason that we make these synthetic constructs is to ask, well, for creatures that never existed before that do not have an evolutionary history of selection, where do their goals come from?
+
+Curt Jaimungal: So you would say that every organism is equally selfish, it just depends on their concept of self?
+
+Michael Levin: I think all agents are one of the things agents do is operate. It's not the only thing they do, but one of the things they do is they operate in their self-interest. But the size of that self can grow and shrink. Individual cells, when they're tied into these large networks using electrical cues, chemical cues, biomechanical cues, they're tied into these larger networks that partially erase their individuality. What you end up with is a collective intelligence that has a much bigger cognitive lone. The goals are much bigger. And then of course, you can scale that up. Humans have enormous cognitive lones. But that's the thing, it's the size of your cognitive lone that determines what kinds of goals you can pursue.
+
+Interviewer (Curt Jaimungal): You mentioned that life is the embodiment of intelligence. Is that how you think of it?
+
+Interviewee: In philosophy, there's this concept of universals. Plato had the forms and would say that this is almost rectangular so it's embodying the rectangular which is somehow somewhere out there. Aristotle, on the other hand, says that the rectangular is a property of this microphone. I imagine this latter view is the one that most biologists would take. 
+
+Interviewer (Curt Jaimungal): Can you explain what you mean when you say embodying intelligence and also what you mean by intelligence?
+
+Interviewee: For practical purposes, I like William James's definition of intelligence, which is some degree of the ability to reach the same goal by different means. This definition presupposes that there is some problem space that the agent is working on, but it does not say you have to be a brain or natural versus artificial. It's a very cybernetic definition. It focuses on problem-solving aspects of intelligence.
+
+Interviewer (Curt Jaimungal): Are you saying that at any slice of time, there was a Michael l in some Michael Len space which is also in the minds of human space and you're picking out points somehow you're traversing this space of Minds?
+
+Interviewee: What I was talking about was mainly types of different Minds, types of cognitive systems. For individuals, you raise a really interesting point which I call self flets, the thin slices of experience. 
+
+Interviewer (Curt Jaimungal): If it's the case then that we interpret our memories as messages from our past selves to our current selves, then can we reverse that and say that our current actions are messages to our future self?
+
+Interviewee: Yes, I think that's exactly right. A lot of what we're doing now is behavior that is going to enable or constrain your future self. You're setting the conditions in which the environment in which your future self is going to be living in part including changing yourself.
+
+**Question 1:**
+Curt Jaimungal: Is it as simple as the larger the cognitive light comb, the better for the organism?
+
+**Answer 1:**
+Interviewee: Well, what does better mean? I mean I think that certainly there are extremely successful organisms that do not have a large cognitive lyone. Having said all that, the size of an organism's cognitive lyone is not obvious. We are not good at detecting them. It's an important research program to find out what any given agent cares about because it's not easily inferable from measurements directly. You have to do a lot of experiments. So assuming we even know what anything's cognitive L con is, I think lots of organisms do perfectly well. But then what's the definition of success? So in terms of the way we think about evolution in terms of how many copy number like how many of you are there, that's your success. So persistence and expansion into the world from that perspective, I don't think you need a particularly large cognitive like on. Bacteria do great. But from other perspectives, if we sort of ask ourselves what the point is and why do we exert all this effort to exist in the physical world and try to persist and exert effort in all the things we do in our lives, one could make an argument that a larger cognitive L cone is probably better in the sense that it allows you to generate more meaning and allows you to bring meaning to all the effort and the suffering and the joy and the hard work and everything else. From that perspective, one would want to enlarge one's cognitive lone.
+
+**Question 2:**
+Curt Jaimungal: There are three notions here: enlarging what you care about, enlarging what you find relevant, and increasing the amount of opportunities that you'll have in the future. Can you help me distinguish these three from one another?
+
+**Answer 2:**
+Interviewee: The relevance is really important. One thing I often think about is what's the fundamental unit that exists in the world. Is it genes? Is it information? What is it that's really spreading through the universe and then differentially reproducing and all that? I tend to think it's perspectives. I think that what's really out there as a way to describe really diverse agents is a commitment to a particular perspective. So perspective in my definition is a bundle of commitments to what am I going to measure about the outside world, what am I going to pay attention to, and how am I going to weave that information into some sort of model about what's going on and more importantly what I should do next. So there are many different perspectives and as you said it's critical that every perspective has to shut out way more stuff than it lets in. If you try to track microstates all the particles, no living system can survive this way. You would be eaten before anything else happens, you would be dead. So I think that any agent that evolves under resource constraint, which is all of life, is going to have to coar grain. They're going to have to not be a reductionist. They're going to have to tell stories about agents that do things as a means of compression as a way of compressing the outside world and picking a perspective. You cannot afford to try to track everything, it's impossible.
+
+**Question 3:**
+Curt Jaimungal: Why do you say that the more compressed it is, the more random it is? Isn't it the opposite, the more random it is the more incompressible it is?
+
+**Answer 3:**
+Interviewee: That's true because you've already compressed the hell out of that's why it's incompressible because you've already compressed it as much as it can. This is the issue that for example the SETI people, the search for extraterrestrial intelligence, come up against because the messages that are going to be sent by truly advanced civilizations are going to look like noise to us because really effective compression schemes, unless you know what the algorithm is to reinflate it, the message itself looks like noise. It doesn't look like anything because you've pulled out all of the correlations, all of the order that would have made sense to a more naive observer is now gone and if you don't have the key to interpret it with, it just looks like noise.
+
+**Question 4:**
+Curt Jaimungal: So you said obviously much of this is or maybe you said obviously all of it or much of it I'm not sure is subconscious. So when we say you currently are constructing an engram for the future you to then unpackage, I am not doing this at least not at an effortful conscious level. There's an instinctual unconscious component to it and then both to the encoding and then to the retrieval and the expansion of the engram. So who are you, who is the person who's listening, what defines them?
+
+**Answer 4:**
+Interviewee: The fact that there are an incredible number of processes under the hood has been known for a really long time. Not only all the physiological stuff that's going on, but you also don't have the experience of running your liver and your kidneys which are very necessary for your brain function. You are also not aware of all the subconscious motivations and patterns and traits and everything else. So let's assume right now that whatever our conscious experiences, there is tons of stuff under the hood. The hardware does not define you. I think the most important thing is that all of this information about what's under the hood is interesting and it has all kinds of implications but the one thing it does not do is diminish your responsibility for living the best most meaningful life you can. It doesn't affect any of that.
+
+**Question 1:**
+Curt Jaimungal: What do you think about the idea that if people learned they were full of cogs and gears, they would be depressed because they would feel they are not what they thought they were?
+
+**Answer 1:**
+Interviewee: I think this is an unfortunate way to think because what you're saying is your experience of your whole life and all of the joys and the suffering and the personal responsibility and everything else that you've experienced, you are now willing to give all that up because you think you know something about what cogs and gears can do. I would go in the exact opposite direction and I would say amazing, I've just discovered that cogs and gears can do this incredible thing. 
+
+**Question 2:**
+Curt Jaimungal: So, you're saying there's another route if you are material, whatever it is you turn out to be, you can elevate that?
+
+**Answer 2:**
+Interviewee: Yes, for sure. We've underestimated matter. When we talk about materialism, we have been sold and are selling still this notion of matter as lacking intelligence. I think that we need to give up this unwarranted confidence in what we think matter can do. We are finding novel cognitive capacities in extremely minimal systems and they're surprising to us. 
+
+**Question 3:**
+Curt Jaimungal: What does bioelectricity have to do with any of this?
+
+**Answer 3:**
+Interviewee: Bioelectricity is not magic. It functions as a kind of cognitive glue. When you have collective intelligence, you need to have policies and mechanisms for enabling individual competent individuals to merge together into a larger emergent individual. One of the modalities that lets that happen, that lets the cognitive cones scale, that lets the intelligence scale is bioelectricity. 
+
+**Question 4:**
+Curt Jaimungal: How do we even say higher or lower when what we're talking about is such a vast landscape of goals or cognitive light cones in a higher dimensional space?
+
+**Answer 4:**
+Interviewee: The only thing that matters here is something akin to set membership. All I mean by higher is that a tissue is made up of cells and cells are made up of molecular networks. I'm not saying that it's bigger or more intelligent or more valuable. 
+
+**Question 5:**
+Curt Jaimungal: Earlier when defining intelligence, you said it was something about ability but also means. Is that correct?
+
+**Answer 5:**
+Interviewee: Yes, the means in James's, at least the way I read him, means the path that takes you to that end. This is the kind of stuff we see in biology. Evolution doesn't just produce solutions to specific environmental problems, it produces problem-solving agents that are able to use the tools they have in novel ways to solve a problem that's never seen before. That is a version of intelligence. 
+
+**Question 6:**
+Curt Jaimungal: The tricky part with this definition of intelligence is that what we want to say is that it's conceivable that the kid from Saskatoon, the poor kid, is more intelligent than the rich kid from the Bay Area. Can you help me out with this?
+
+**Answer 6:**
+Interviewee: [Answer not provided in the given transcript.]
+
+**Question 1:**
+Curt Jaimungal: How do we avoid saying that the poor kid from Saskatoon is just by definition less intelligent by happenstance than the person from the Bay Area?
+
+**Answer 1:**
+Interviewee: The thing to keep in mind here is that estimates of intelligence are not objective properties of a given system. IQ is not the property of whatever system you're trying to gauge the IQ of, it is your best guess about what kind of problem solving you can expect out of that system. So it's as much about you as it is about the system. When you make an estimate of the intelligence of something, you are taking an IQ test yourself. All you're saying is this is what I know in terms of and this is what I can see in terms of what kind of problem solving I can see. This applies to animals, AIs, and humans in various economic environments.
+
+**Question 2:**
+Curt Jaimungal: In 2021, you had a paper called reframing cognition. On page 10, section five, you started talking about basal cognition and unavowed cognition. What do those terms mean?
+
+**Answer 2:**
+Interviewee: The idea for basal cognition is basically that whatever cognitive capacities we have, they have to have an origin and we have to ask where did they come from. So basal cognition is the question of where did our cognitive capacities come from. That means looking at the functional intelligence of cells, tissues, slime molds, microbes, bacteria, and minimal matter. 
+
+**Question 3:**
+Curt Jaimungal: If it's a spectrum, can't you just define on/off to be if you have a nonzero on the Spectrum then you're on?
+
+**Answer 3:**
+Interviewee: I personally am on board with that. I think potential energy and least action principles are the tiniest hopes and dreams that there are. I think that is the most basal version and in our universe, everything is on the cognitive scale. But we have to ask ourselves what do we want this terminology to do for us. 
+
+**Question 4:**
+Curt Jaimungal: There are various theories of Consciousness, which one do you feel like is on the right track?
+
+**Answer 4:**
+Interviewee: I don't have a new Theory Of Consciousness to add. What's really hard about Consciousness and what makes it the hard problem is that unlike everything else that we work with, we don't have any idea what a correct Theory would output. For everything else, a good theory gives you numbers, predictions about specific things that are going to happen. But what does a good theory of Consciousness give you?
+
+**Question:** Are you saying that if we list all the theories of Consciousness and then we place, does it distinguish the brain as being responsible for consciousness?
+
+**Answer:** Yes, we ask what is it about that theory that says it's in the brain rather than somewhere else. Let's say your liver. So IIT would say no, because IIT is a panpsychist theory that would say look if your liver is doing some processing then it has some nonzero amount of Consciousness. And I agree with that. 
+
+**Question:** You've spoken to Bernardo Castrop several times now. What is it you agree with him the most that you think most people would disagree about?
+
+**Answer:** It's hard for me to know what most people agree or disagree with him about. We agree on a lot of things, we agree on the Primacy of Consciousness. I think that his idealist position has a lot to recommend it.
+
+**Question:** What is it you disagree with him about regarding Consciousness?
+
+**Answer:** The one thing I think we disagree on is the issue of compositionality. He felt that it is important in order to be a true self to have a conscious experience as in an inner perspective, you have to arise from a single system. I was arguing that that really is just a contingent feature of biology. I don't give as much emphasis on a system being demarcated from the outside world because it was somehow disconnected. I think those are superficial aspects of the biology and you can do things a different way.
+
+**Question:** It seems like the point that you're saying is look we can think about this as several rooms, this building comprises several rooms but even in a room there are different people there are different chairs there are different tables, is that what you're saying?
+
+**Answer:** What I'm saying is, I think he thinks that it's important in order to be a unified inner perspective, you have to arise from a single origin. And I see it as much more fluid and I see the boundary between self and world as something that can change all the time.
+
+**Question:** If what makes an agent is the distinction between the self and the world and some people think of God as the entirety of everything thus the entire world and there's no distinction, then can one say that God is an agent?
+
+**Answer:** I don't know. I think most religions that have a God anyway, as far as my understanding is, they would think that yes, that God has extreme agency, in fact higher than ours.
+
+**Question:** Remove the word God, does the world have agency?
+
+**Answer:** That's an interesting question. Let's start with first of all how do we know when anything has agency and that's an experimental research program. So you basically hypothesize what problem space it's working in, what you think its goals are and then you do experiments to figure out what competency it has and then you find out did I guess well or poorly, do I need to make a better guess and so on. 
+
+**Question:** How do we know if we are in fact part of a bigger mind?
+
+**Answer:** I don't know. My suspicion is that there are some sort of girdle like theorem that will tell you that you can never know for sure and you can never be certain but I bet that you could gather evidence for it well for or against.
+
+Interviewer (Curt Jaimungal): What would it look like if we were part of a larger system that was actually processing information?
+
+Interviewee: I don't know exactly what that would look like, but my hunch is that it would look like what we call synchronicity. I think that what it would look like are events that don't have a causal connection at our lower level, like mechanistically by physics, there's no reason why that should be. But at a larger scale in terms of meaning and the greater meanings of things, they do have some kind of interpretation. I think that's what it would look like to be part of a larger system. It would look and feel like synchronicity.
+
+Curt Jaimungal: Can you take me through the history of the Lev lab? When did it start and what were your first breakthroughs?
+
+Interviewee: The lab started in my head when I was pretty young. It was a dream that I had to do this kind of stuff. I consider myself to be the luckiest person in the world. I get to do the funnest stuff with the best people. My lab actually began in September of 2000. That's when I got a faculty position at the Foresight Institute at Harvard Medical School and we opened our doors. It was just me at first and then me and one other technician. There's like 42 of us now.
+
+Curt Jaimungal: Can you tell me about some of the milestones in the history of the Lev lab?
+
+Interviewee: By the time we opened the lab, I was involved in a collaboration with Ken Robinson and his postdoc Thor Le thorland and together with my postdoc Mentor Mark marola, we showed the first molecular tools for bioelectricity. We had a paper on Left Right asymmetry and we showed the first bioelectric tracking of non-neural bioelectric states in the chicken embryo. We showed that it was important for setting up which side is left and which side is right and then manipulating that information using injected ION channel constructs. That was a really early project. 
+
+Another early project was when we started misexpressing these things in embryos to see the space of possible changes. What does bioelectricity really do? I mean nobody knew at the time. It was thought that membrane voltage was a housekeeping parameter. There was an epiphenomenon of other things that cells were doing and that if you mess with it all you're going to get is uninterpretable death. But we discovered that bioelectricity was instructive. It controls which organs you get. 
+
+Then we had a bunch of work on Left Right asymmetry and showing how the cells in the body decide which side they're on based on these electrical cues. Then we discovered that in order for cells to interpret these electrical cues, it had to do with the movement of Serotonin. So long before the nervous system or the brain shows up, the body is using serotonin to interpret electrical signals. 
+
+Then we started looking at regeneration. We showed that tadpole tail regeneration was also bioelectrically driven and that was our first gain of function effect in regeneration where we were able to show that we could actually induce new regeneration. The tail is a very complex organ and we developed a bioelectric cocktail that induces it to grow. The most recent version of that work is in the frog leg where we show that 24-hour stimulation with our cocktail induces a year and a half of leg growth during which time we don't touch it at all.
+
+**Question:** When did this conjectural connection between bioelectricity and cancer occur to you? The field was clueless about that, it's not as if they had an opinion and said no.
+
+**Answer (Curt Jaimungal):** Well, to be clear, the very first person who talked about this was Clarence Con in 1971. He wrote that he had a couple papers in science where he showed that the resting potential of cells was an important driver of cell proliferation and he conjectured that it might have something to do with cancer. This idea had been floated, nobody had ever done anything with it and the tools to study this at a molecular level didn't exist until we made them. What I think we brought to it that was completely new is the notion of that this is also related to cognition. The idea that it's not just that it drives proliferation and cancer, that this is really involved in setting the limiting the size of the cognitive lonee at which point cells acquire ancient metastatic like Behavior. That aspect of it I think is completely new with us.
+
+**Question:** Would that drug that you soaking in be called a biological cocktail like is that what you referred to earlier?
+
+**Answer (Curt Jaimungal):** It's a different biological cocktail. It wasn't even a cocktail, it was a single one single chemical. It was really simple, it was just one single chemical and all it does is block cap Junctions. What that did was change the electric circuit properties that the cells have and they both wounds decided they had to be heads.
+
+**Question:** What's your recent discovery been?
+
+**Answer (Curt Jaimungal):** It's not so much a discovery, it's more of a new way of thinking about it. One of the weird things about plenaria is that because they reproduce by tearing themselves in half and then each half grows the rest of the body, any mutation that doesn't kill the cell gets expanded into the Next Generation. Their genome's very messy, they have different numbers of chromosomes. That's very weird and I always thought isn't it strange that the animal that is the most regenerative, apparently Immortal, they don't age, cancer resistant and by the way resistant to trans genes, is also the one with the most chaotic genome. Now that's bizarre. You would think that the animal with all those amazing properties should have really pristine Hardware, a really clean, really stable genome. But it's the exact opposite. I think we now understand what's happening. What I think is happening is this, imagine a develop Al problem solving. If you have a passive material such that you've got some genes, the genes determine what the material does and so therefore you have an outcome and that outcome gets selected. But a much more realistic scenario is the fact that you don't go straight from a genotype to the phenotype, you don't go from the genes to the actual body, there's this layer of development in the middle and the thing about development is not just that it's complex, it's that it's intelligent, meaning it has problem-solving competencies. So what actually happens in tadpoles is if I move the mouth off to the side of the head, within a few weeks it comes back to normal on its own. It can reach again that region of anatomical space where it wants to be. So now imagine what this means for evolution when you're evolving a competent substrate not a passive substrate. By the time a nice tadpole goes up for selection to see whether it gets to reproduce or not, selection can't really see whether it looks good because the genome was great or because the genome was actually so so but it fixed whatever issue it had. That competency starts to hide information from selection. So selection finds it kind of hard to choose the best genome because even the ones with problems look pretty good by the time it's time to be selected. So what happens is that when you do this, Evolution ends up spending all of its effort ramping up the competency because it doesn't see the structural genes, all it sees is the competency mechanism and if you improve the competency mechanism well that makes it even harder to see the genome. So you have this ratchet, you have this positive feedback loop where the more competent the material is the harder it is to evolve the actual genome, all the pressure is now on the competency. So you end up with kind of like a like a latter, really an intelligence ratchet. So what it means is that in the case of the planaria that that positive feedback loop that ratchet went all the way to the end.
+
+**Question from Curt Jaimungal:** If you were to look at the Genome of the Salamander versus the sea Elegance, would the sea Elegance be more chaotic or more ordered than the salamander?
+
+**Answer from Interviewee:** It's a good question. So nobody's done that specifically. As far as I know, this is something that we're just ramping up to do now. I think that's a prediction of this model that I just laid out. So we can test that. I think there's an ecological component. I mean you can ask the question so why doesn't everything end up like plenaria and I think there's an aspect of this that that ratchet obviously doesn't run to the end in every scenario because in some species there's a better trade-off to be had somewhere else.
+
+**Question from Curt Jaimungal:** If there are three components then, if you don't see a direct correlation could be hidden by a third Factor?
+
+**Answer from Interviewee:** Yes, which I think would probably be environment. It would probably be the Ecology of how do you reproduce, how noisy, how dangerous, how unpredictable is your environment. I'm going to guess there's something like that involved here.
+
+**Question from Curt Jaimungal:** What is meant when you say Le lab? Do biologists do professors who are in Neuroscience or biology get given a lab by the university as this standard? Do you share a lab with other people? What's meant by lab, is it a room?
+
+**Answer from Interviewee:** When you're finishing up your postdoc, you interview at a bunch of places and see who will hire you as a brand new Junior faculty member. So when you get a job, you are now in charge of all your successes and failures. At that point, you get a lab. One of the things you do is you negotiate the amount of space you have. Typically you start off pretty small and then over time if you bring in new grants then you ask for more space and the lab grows. When they say Le lab or Huberman lab, what they're just referring to is all of the research that is controlled by you where you make the decisions. So physically, for example, I have three different locations on this campus where my research is done. All of them are considered part of the Len lab because as the principal investigator I'm the one whose job it is to bring in the external funding to support all the people that work there and to pay for the reagents and also I'm the one responsible for the good and the bad of what they do.
+
+**Question from Curt Jaimungal:** Can you bring us to 2020 to 2024?
+
+**Answer from Interviewee:** Some of the latest most exciting things that happened around between 2015 and 2020 or so was also we were able to show that you can actually use reinforcement of bi electric patterns to fix birth defects. So we in frog it started, and we were able to show that there's a range of birth defects induced by other means that you can actually repair. So complex defects of the brain face hard like these really complicated things you could actually repair them by very simple changes in the bi electrical pattern. The next couple of big things after that were first of all the discovery of xenobots and this was Doug Blackiston in my group did all the biology for it and this was in collaboration with Josh Bongard who's a computer scientist at UVM and his PhD student at the time Sam Krigman who did all the computer simulations for the work. So this was the discovery of the zenbot and the idea of using epithelial cells from an early frog embryo to let them liberate them from the rest of the embryo where they're basically getting a bunch of signals that force them to be this like boring skin layer on the outside of the animal keeping out the bacteria. So we were able to show that when you liberate them from those cues they actually take on a different lifestyle and they become a motile sort of self-contained little construct that swims around and does some really interesting things including making copies of itself from loose skin cells that you provide and so on. Shortly thereafter a few a couple years later we were able to make anthr robots which is the same thing but with adult human tracheal cells.
+
+**Host (Curt Jaimungal):** So, you can imagine in the future personalized interventions where your own cells are behaviorally reprogrammed to go around your body and fix things in the form of these anthropods. You don't need immune suppression because they're your own cells, right?
+
+**Interviewee:** Yes, you can imagine those kinds of interventions. It's interesting because a lot of the interventions we use now are very low agency. You don't just want agency, you want agency that's attuned to yourself. Your own cells coming from your own body, they share with you all the priors about health, disease, stress, cancer. They're part of your own body, they already know all of this.
+
+**Host (Curt Jaimungal):** Well, you must have had some idea that this would be possible otherwise you wouldn't have tested it, right?
+
+**Interviewee:** True, yes. This is true for a lot of stuff in our lab where people say, "Well, did you know that was going to happen?" On the one hand, no, because it's wild and it wasn't predicted by any existing structures. On the other hand, yes, because we did the experiment and that's why I did it because I had an intuition that that's how this thing would work.
+
+**Host (Curt Jaimungal):** So you're testing out a variety?
+
+**Interviewee:** Correct, you have to start somewhere. We said, "Okay, let's try some neural scar." There's many other things to try.
+
+**Host (Curt Jaimungal):** Now we're going to end on advice for a newcomer to biology. They're entering the field, what do you say?
+
+**Interviewee:** Well, step one is to ignore most people's advice. I actually have a whole thing about this on my blog.
+
+**Host (Curt Jaimungal):** Does your advice for the biologist differ from your advice to the general scientist entering the field?
+
+**Interviewee:** The most important thing I'll say is I do not in any way feel like I could be giving anybody advice. There are so many individual circumstances.
+
+**Host (Curt Jaimungal):** How about what you would have wish you had known when you were 20?
+
+**Interviewee:** The only thing I know is that paths in science are very hard to predict and people should really be very circumspect about taking extremely seriously specific critiques of specific things that will help them improve their process versus these large scale career level things.
+
+**Host (Curt Jaimungal):** Can you be specific and give an example of where you liked the minutia of a critique and then where you disliked the grand scale critique?
+
+**Interviewee:** The minutia happens every day. Every day we get comments on a paper submission and we see and somebody says, "Well, you know, it would have been better if you included this control." That's gold. The part where everybody gives large scale advice, "Oh, work on this, don't work on that." All of that stuff is generally speaking better off ignored completely.
+
+Interview between Curt Jaimungal (Host) and the Interviewee:
+
+Curt Jaimungal: What's going on here with the embryo naturally producing a bioelectrical state?
+
+Interviewee: Yes, the embryo naturally has a way of producing that bioelectrical state but what actually matters is not the gene, it's not how you got there, it's the state itself.
+
+Curt Jaimungal: Why do you call xenobots "bots"?
+
+Interviewee: We call them Bots because we think it's a biorobotics platform. One thing that happens is that you've got people that are sort of from the organicist tradition and they'll say it's not a robot, it's a living thing. How dare you call it a robot. But it's not that the zenbot is or isn't a robot, it's simply the idea that by using these different terms, what you're signaling is what are some of the ways that you could have a relationship with it. For example, we think that we might be able to program it to use it for useful purposes. That's what the terminology bot emphasizes. Do I think it's only a zenbot? Absolutely not. I also think it's a Proto organism with its own limited agency and its own things that we haven't published yet which we're working on, like their learning capacity.
+
+Curt Jaimungal: Why do people resist the use of the word memory for some of the things that you study?
+
+Interviewee: Some people are very resistant to the use of the word memory for some of the things that we study. They want memory to be in a very particular box. But if your point is that no, it actually is memory, that's the whole point we need to have a better understanding of memory, then that's something else. 
+
+Curt Jaimungal: In your own research program, which road do you want to go down to?
+
+Interviewee: In science, you don't have do-overs. You commit those years and they're gone. So, you need to have a feeling, you need to have an intuition of which way it's going to go. You don't need to declare ahead of time that you know how it's going to turn out because you don't. But you do need to know, despite everybody telling you this or that, I am going to commit. That's really all you have. You don't have any kind of crystal ball, you don't have a monopoly on the truth, but what you do have is a responsibility to manage the limited time that you have. So, how are you going to spend your 10 years? It's going to be hard, lots of blood, sweat, and tears. It's a hard job, there's constant criticism and that's how science goes. Lots of stress. But the question is, are you going to have that stress following somebody else's research agenda or yours? You'll still be old and stressed out by the end of it, but the question is, have you tested out your own best ideas or somebody else's view of what science should be?
+
+Curt Jaimungal: Well, Michael, speaking of limited time, I appreciate you spending yours with me and with the crew here today.
+
+Interviewee: Thank you so much. It's great to see you again. I love talking to you. Thanks for having me so many times. It's been really excellent.
+
+Curt Jaimungal: So, Taylor Swift has a tour called the eras tour. You've been around since 2000, active in the field. This is akin to the Michael eras Tour, all of your work, well not all of it but the milestones, the greatest hits in approximately two hours or so. So, share this if you're a fan of your work. And well, Michael, thank you.
+
+Interviewee: Thank you so much. I really appreciate it.
+

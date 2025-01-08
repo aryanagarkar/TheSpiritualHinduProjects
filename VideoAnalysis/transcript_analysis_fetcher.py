@@ -59,7 +59,22 @@ def analyze_transcript(full_text, fileToWrite):
             except Exception as e:
                 print(f"An unexpected error occurred: {e}")
 
-#full_text_1 = read_transcript_from_file("Transcripts/Video1JacobBarandes.txt")
+#full_text_1 = read_transcript_from_file("Transcripts/Video1_Jacob_Barandes.txt")
 #clean_transcript(full_text_1, "Video1_Cleaned_Transcript.txt")
-full_cleaned_text_1 = read_transcript_from_file("Video1_Cleaned_Transcript.txt")
-analyze_transcript(full_cleaned_text_1, "Video1_Analysis.txt")
+#full_cleaned_text_1 = read_transcript_from_file("Video1_Cleaned_Transcript.txt")
+#analyze_transcript(full_cleaned_text_1, "Video1_Analysis.txt")
+
+#full_text_2 = read_transcript_from_file("Transcripts/Video2_Denis_Noble.txt")
+#clean_transcript(full_text_2, "Video2_Cleaned_Transcript.txt")
+#full_cleaned_text_2 = read_transcript_from_file("Video2_Cleaned_Transcript.txt")
+#analyze_transcript(full_cleaned_text_2, "Video2_Analysis.txt")
+
+#full_text_3 = read_transcript_from_file("Transcripts/Video3_Michael_Levin.txt")
+#clean_transcript(full_text_3, "Video3_Cleaned_Transcript.txt")
+#full_cleaned_text_3 = read_transcript_from_file("Video3_Cleaned_Transcript.txt")
+#analyze_transcript(full_cleaned_text_3, "Video3_Analysis.txt")
+
+#full_text_4 = read_transcript_from_file("Transcripts/Video4_Julian_Barbour.txt")
+#clean_transcript(full_text_4, "Video4_Cleaned_Transcript.txt")
+#full_cleaned_text_4 = read_transcript_from_file("Video4_Cleaned_Transcript.txt")
+#analyze_transcript(full_cleaned_text_4, "Video4_Analysis.txt")
