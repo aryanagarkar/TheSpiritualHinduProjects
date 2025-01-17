@@ -36,9 +36,14 @@ def clean_transcript(full_text, fileToWrite):
             except Exception as e:
                 print(f"An unexpected error occurred: {e}")
 
-def analyze_transcript(full_text, fileToWrite):
+def analyze_transcript(full_text, fileToWrite, use_chunks):
     chunk_size = 10000  
-    chunks = [full_text[i:i + chunk_size] for i in range(0, len(full_text), chunk_size)]
+    
+    # Create chunks if use_chunks is True
+    if use_chunks:
+        chunks = [full_text[i:i + chunk_size] for i in range(0, len(full_text), chunk_size)]
+    else:
+        chunks = [full_text]
 
     with open(fileToWrite, "a", encoding="utf-8") as file:
         for chunk in chunks:
@@ -62,19 +67,19 @@ def analyze_transcript(full_text, fileToWrite):
 #full_text_1 = read_transcript_from_file("Transcripts/Video1_Jacob_Barandes.txt")
 #clean_transcript(full_text_1, "QAndA/Video1_Cleaned_Transcript.txt")
 #full_cleaned_text_1 = read_transcript_from_file("QAndA/Video1_Cleaned_Transcript.txt")
-#analyze_transcript(full_cleaned_text_1, "Analysis/Video1_Analysis.txt")
+#analyze_transcript(full_cleaned_text_1, "Analysis/Video1_Analysis.txt", true)
 
 #full_text_2 = read_transcript_from_file("Transcripts/Video2_Denis_Noble.txt")
 #clean_transcript(full_text_2, "QAndA/Video2_Cleaned_Transcript.txt")
 #full_cleaned_text_2 = read_transcript_from_file("QAndA/Video2_Cleaned_Transcript.txt")
-#analyze_transcript(full_cleaned_text_2, "Analysis/Video2_Analysis.txt")
+#analyze_transcript(full_cleaned_text_2, "Analysis/Video2_Analysis.txt", true)
 
 #full_text_3 = read_transcript_from_file("Transcripts/Video3_Michael_Levin.txt")
 #clean_transcript(full_text_3, "QAndA/Video3_Cleaned_Transcript.txt")
 #full_cleaned_text_3 = read_transcript_from_file("QAndA/Video3_Cleaned_Transcript.txt")
-#analyze_transcript(full_cleaned_text_3, "Analysis/Video3_Analysis.txt")
+#analyze_transcript(full_cleaned_text_3, "Analysis/Video3_Analysis.txt", true)
 
 #full_text_4 = read_transcript_from_file("Transcripts/Video4_Julian_Barbour.txt")
 #clean_transcript(full_text_4, "QAndA/Video4_Cleaned_Transcript.txt")
 #full_cleaned_text_4 = read_transcript_from_file("QAndA/Video4_Cleaned_Transcript.txt")
-#analyze_transcript(full_cleaned_text_4, "Analysis/Video4_Analysis.txt")
+#analyze_transcript(full_cleaned_text_4, "Analysis/Video4_Analysis.txt", true)
