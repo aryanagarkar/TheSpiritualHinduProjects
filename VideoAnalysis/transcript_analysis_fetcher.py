@@ -83,3 +83,6 @@ def analyze_transcript(full_text, fileToWrite, use_chunks):
 #clean_transcript(full_text_4, "QAndA/Video4_Cleaned_Transcript.txt")
 #full_cleaned_text_4 = read_transcript_from_file("QAndA/Video4_Cleaned_Transcript.txt")
 #analyze_transcript(full_cleaned_text_4, "Analysis/Video4_Analysis.txt", true)
+
+full_text_5 = read_transcript_from_file("Transcripts/Awakening_Videos_Combined.txt")
+analyze_transcript(full_text_5, "Analysis/Awakening_Videos_Analysis.txt", false)
