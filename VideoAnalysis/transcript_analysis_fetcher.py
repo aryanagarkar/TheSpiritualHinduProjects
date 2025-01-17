@@ -67,22 +67,22 @@ def analyze_transcript(full_text, fileToWrite, use_chunks):
 #full_text_1 = read_transcript_from_file("Transcripts/Video1_Jacob_Barandes.txt")
 #clean_transcript(full_text_1, "QAndA/Video1_Cleaned_Transcript.txt")
 #full_cleaned_text_1 = read_transcript_from_file("QAndA/Video1_Cleaned_Transcript.txt")
-#analyze_transcript(full_cleaned_text_1, "Analysis/Video1_Analysis.txt", true)
+#analyze_transcript(full_cleaned_text_1, "Analysis/Video1_Analysis.txt", True)
 
 #full_text_2 = read_transcript_from_file("Transcripts/Video2_Denis_Noble.txt")
 #clean_transcript(full_text_2, "QAndA/Video2_Cleaned_Transcript.txt")
 #full_cleaned_text_2 = read_transcript_from_file("QAndA/Video2_Cleaned_Transcript.txt")
-#analyze_transcript(full_cleaned_text_2, "Analysis/Video2_Analysis.txt", true)
+#analyze_transcript(full_cleaned_text_2, "Analysis/Video2_Analysis.txt", True)
 
 #full_text_3 = read_transcript_from_file("Transcripts/Video3_Michael_Levin.txt")
 #clean_transcript(full_text_3, "QAndA/Video3_Cleaned_Transcript.txt")
 #full_cleaned_text_3 = read_transcript_from_file("QAndA/Video3_Cleaned_Transcript.txt")
-#analyze_transcript(full_cleaned_text_3, "Analysis/Video3_Analysis.txt", true)
+#analyze_transcript(full_cleaned_text_3, "Analysis/Video3_Analysis.txt", True)
 
 #full_text_4 = read_transcript_from_file("Transcripts/Video4_Julian_Barbour.txt")
 #clean_transcript(full_text_4, "QAndA/Video4_Cleaned_Transcript.txt")
 #full_cleaned_text_4 = read_transcript_from_file("QAndA/Video4_Cleaned_Transcript.txt")
-#analyze_transcript(full_cleaned_text_4, "Analysis/Video4_Analysis.txt", true)
+#analyze_transcript(full_cleaned_text_4, "Analysis/Video4_Analysis.txt", True)
 
 full_text_5 = read_transcript_from_file("Transcripts/Awakening_Videos_Combined.txt")
-analyze_transcript(full_text_5, "Analysis/Awakening_Videos_Analysis.txt", false)
+analyze_transcript(full_text_5, "Analysis/Awakening_Videos_Analysis.txt", False)
