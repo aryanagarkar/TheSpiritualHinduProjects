@@ -105,8 +105,14 @@ def analyze_transcript(full_text, fileToWrite, use_chunks):
 #full_text_2 = read_transcript_from_file("Transcripts/Video2_Denis_Noble.txt")
 #clean_transcript(full_text_2, "QAndA/Video2_Cleaned_Transcript.txt")
 
-full_text_3 = read_transcript_from_file("Transcripts/Video3_Michael_Levin.txt")
-clean_transcript(full_text_3, "QAndA/Video3_Cleaned_Transcript.txt")
+#full_text_3 = read_transcript_from_file("Transcripts/Video3_Michael_Levin.txt")
+#clean_transcript(full_text_3, "QAndA/Video3_Cleaned_Transcript.txt")
 
 #full_text_4 = read_transcript_from_file("Transcripts/Video4_Julian_Barbour.txt")
 #clean_transcript(full_text_4, "QAndA/Video4_Cleaned_Transcript.txt")
+
+#full_text_6 = read_transcript_from_file("Transcripts/Video6_Matthew_Segall.txt")
+#clean_transcript(full_text_6, "QAndA/Video6_Cleaned_Transcript.txt")
+
+full_text_7 = read_transcript_from_file("Transcripts/Video7_Jacob_Barandes.txt")
+clean_transcript(full_text_7, "QAndA/Video7_Cleaned_Transcript.txt")

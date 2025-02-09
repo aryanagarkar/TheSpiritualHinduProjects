@@ -1,0 +1,144 @@
+**Question 1:**
+
+Curt Jaimungal: What is physical philosophy?
+
+Jacob Barandes: Physical philosophy is the use of results, ideas, discoveries, and theories from physics to address traditional questions in philosophy, particularly in metaphysics. We're interested in questions about space and time, the philosophy of time, causation, the philosophy of probability, and the metaphysics of laws. We think about what our best current physical theories bring to bear on these traditional questions and how they constrain what we can say about those sorts of things.
+
+**Question 2:**
+
+Curt Jaimungal: Can you give an example of physical philosophy?
+
+Jacob Barandes: A good example is the nature of time. Philosophers have been thinking about this for a very long time. There's a famous paper by McTaggart on the nature of time. He introduces different ways of thinking about time and how much structure it has. Around the same time, Albert Einstein was developing special relativity, which has serious implications for how we think about the nature of time. Special relativity is telling us, in some very strong sense, that we're living in an eternalist so-called block universe where everything is just there. This is a fantastic example of where the things we're learning from contemporary successful physical theories bring to bear some very important constraints on what you might have thought were purely metaphysical questions.
+
+**Question 3:**
+
+Curt Jaimungal: What is philosophical physics?
+
+Jacob Barandes: Philosophical physics is a methodology for doing physics, not philosophy. It tries to make progress on physics using some of the tools that you might traditionally have associated with philosophy. These tools include thought experiments, coming up with counter-examples, sharpening definitions, sharpening questions, identifying implicit assumptions, subjecting ideas to logical analysis, and rigorous scrutiny. 
+
+**Question 4:**
+
+Curt Jaimungal: What's the standard view of philosophy of physics or philosophy in general from people who consider themselves to be scientists or who actually are practicing scientists?
+
+Jacob Barandes: There are some scientists who question the contribution of philosophy to modern-day physics. However, I disagree with that sentiment. For instance, the no-cloning theorem in quantum theory, which was formulated in the 80s by Zurich and Wouters, and independently by philosopher of science, Dennis Deeks, is an example of philosophical thinking contributing to physics. The theorem states that if you're given a quantum state and you don't do any measurements on it, there's no way to build some kind of apparatus that can make another system be in exactly the same quantum state.
+
+**Question:** What is the no-cloning theorem and why is it useful?
+**Answer:** The no-cloning theorem is a principle in quantum mechanics which states that it is impossible to create an identical copy of an arbitrary unknown quantum state. It's useful because it shows up all over the place in physics, in high-energy theory, and in many other areas.
+
+**Question:** What is the significance of the term "qubit" and how did it come about?
+**Answer:** A qubit is a quantum bit, a fundamental unit of quantum information. The term is a portmanteau of quantum and bit. The term bit goes back to Claude Shannon and is a portmanteau of binary digits. The name qubit, spelled Q-U-B-I-T, was coined by Ben Schumacher at Kenyon College and Bill Wooters at Williams College. The spelling was inspired by a unit of measure in the Bible called a cubit, spelled C-U-B-I-T. They replaced the C with a Q to signify a modern version of a cubit.
+
+**Question:** What is the Einstein-Podolsky-Rosen paper and what is its significance?
+**Answer:** The Einstein-Podolsky-Rosen paper from 1935 is an extended philosophical argument that lays out a metaphysical claim about quantum mechanics. It questions whether quantum mechanics could be considered complete, even if it's practically perfectly useful. This paper inspired a lot of people and has been highly influential in the field of quantum mechanics.
+
+**Question:** What is Bell's theorem and how does it relate to the Einstein-Podolsky-Rosen Paradox?
+**Answer:** Bell's theorem, first introduced in a 1964 paper titled "On the Einstein-Podolsky-Rosen Paradox," extends the argument of the EPR paper into a statement about what are now called hidden variables theories. It deals with entangled systems and has been influential in the field of quantum mechanics.
+
+**Question:** What is decoherence and how did it come about?
+**Answer:** Decoherence is a process in quantum mechanics where a system interacting with the environment loses its quantum behavior and starts to behave classically. The first serious rigorous formulation of decoherence shows up in chapter 22 of David Bohm's 1951 textbook, Quantum Theory. He describes it as the "destruction of interference in the process of measurements," which is essentially what decoherence is.
+
+Question: 
+Curt Jaimungal: In the de Broglie-Bohm theory, when you do something like the double slit experiment and you send a pilot wave through these two slits of an experiment, why doesn't the screen light up in all the places where the wave hits it?
+
+Answer: 
+Interviewee: Bohm wrote two papers. In the second paper, he goes through the measurement process. He goes through this example. And he basically uses decoherence to explain why we only see one landing site. 
+
+Question: 
+Curt Jaimungal: Speaking of the foundations of quantum mechanics, are they inconsistent as they stand in textbook quantum theory?
+
+Answer: 
+Interviewee: There are problems with these axioms, not when dealing with microscopic systems. Microscopic systems, things tend to work out pretty well. And when people say quantum mechanics works just great, they mean microscopic systems. If you want to do a tabletop experiment, an atomic experiment or a laser experiment, you're working with tabletop systems, microscopic systems, theory works great. Works great. If you limit yourself to these particular examples, what's the problem? If you want to do a particle physics experiment, a high-energy physics experiment, you're building a giant particle accelerator, you're talking about the Large Hadron Collider or something like that, you have beams of subatomic particles that are flying together, and there's debris that comes out, you collect all the debris. These are all microscopic systems. Quantum mechanics makes beautiful predictions about these results. So you're not going to see any discrepancies for these kinds of systems, at least to the extent that the Dirac phenomenon axioms give a self-consistent description for microscopic systems, which they appear to do. Perfectly empirically adequate description, the theory works great. So what's the problem? Why does anyone have any issue? We talked before in our last conversation, and I talked about this thought experiment that was proposed, I think, originally by Hugh Everett in his long-form thesis in 1956-57 when he was a graduate student at Princeton working for John Wheeler. Not the one he ultimately published. He published a shorter version, but in the longer version, he opens it up with a thought experiment that has since been usually attributed to Eugene Wigner, who was also at Princeton. And we talked about how Wigner had this paper called On the Mind-Body Question in the early 1960s. But in this thought experiment, we imagine trying to do quantum mechanics with a system that is not small. It is not small. It is not ultra-cold. It is not, you know, pristine. The quantum system is something big enough to be a measuring device itself or even an observer. So again, this thought experiment is called the Wigner's Friend Thought Experiment. Wigner is on the outside of a box. The box is perfectly sealed. Wigner is one observer. Inside the box is Wigner's friend. Wigner's friend is also an observer, a big system, but perfectly sealed inside the box. And Wigner's friend does a measurement on some superposed microscopic quantum system inside the box. And now we have a problem because we can describe the situation in two ways. We can treat Wigner's friend, the person in the sealed box, as a thing that is an observer, that does measurements, and then we're supposed to use the measurement axioms and the collapse axiom. Or because the person is sealed in a box and there is a second observer on the outside who has not done a measurement on the box or the contents, maybe we should treat the box and its contents as not subject to the collapse axiom. And now all of a sudden we have an ambiguity in the middle of the theory. The Dirac phenomenon axioms are simply ambiguous in this circumstance. They don't render a judgment of what you're supposed to do. And when we spoke last time, I laid out a whole menu of possible things you could do, and each of them leads you down a different road, right, for how you would resolve this problem. So this is just an inconsistency.
+
+**Question:** What does special relativity suggest about the state of motion?
+
+**Answer:** Special relativity suggests that if you're in a state of motion, then that slice is tilted a little bit. It's not quite horizontal anymore relative to the first slice. Things that are further in the future compared with one observer are in the present of the second observer and so forth.
+
+**Question:** How do you describe the pancake model of space-time?
+
+**Answer:** The pancake model of space-time is a way to think about the concept of space and time. Imagine a stack of pancakes. Each pancake represents all of space, the whole spatial universe at one moment in time. One of the pancakes is the "hot pancake", representing what's happening right now. This hot pancake is incrementing, representing the passage of time.
+
+**Question:** What does special relativity suggest about observers in different states of motion?
+
+**Answer:** Special relativity suggests that observers in different states of motion will slice the stack of pancakes slightly diagonally. This means that the slices are now tilted. If you're cutting the stack of pancakes at a slight tilt, there can't be a hot pancake anymore. The two observers don't even agree on whether the slices are horizontal slices or slightly diagonal slices. 
+
+**Question:** What are some attempts to refute this argument?
+
+**Answer:** There have been attempts to refute this argument. Brad Scout MIT has a book with a particular perspective on this. Jean Annis Mayle, a philosopher of physics at Johns Hopkins University, has a book called "How Physics Makes Us Free" where she presents an interesting argument about how you might get around this problem. David Wheelies at Princeton has an argument that, rather than try to refute the negative argument against presentism, maybe there are good arguments for presentism.
+
+**Question:** What is your understanding of the evolution laws?
+
+**Answer:** My understanding is that the evolution laws depend on the past. They don't depend on the future. In the eternalist state, when they're saying that, why would we privilege the present? And then you're saying, well, in yours, you're not, but you're also not privileging the future. You actually are privileging the past.
+
+**Question:** What is the difference between breaking a symmetry and spontaneously breaking a symmetry?
+
+**Answer:** If you take a theory and the basic equations that formulate laws of that theory simply fail to have a certain symmetry, that's breaking a symmetry. Spontaneously breaking a symmetry is when the laws of a theory are fundamentally invariant, but for a given model, they will typically favor one direction of time over the other. It's not a breaking in the sense that fundamentally, like nature's about picking out future versus past, but just that in a given instantiation, in a given situation, nature has to pick one particular direction in each instantiation and picks one over the other.
+
+Due to the length of the transcript, I have broken it down into several questions and answers for better readability:
+
+Q1: Curt Jaimungal: Can you explain the connection between changes of variables in phase space and basis transformations in Hilbert spaces?
+
+A1: Interviewee: These changes of variables, which are carefully designed to keep the equations, the laws looking very similar, are called canonical transformations. There is a beautiful connection between these changes of variables of your phase space and basis transformations in Hilbert spaces. This connection inspired Dirac to introduce his formulation of quantum mechanics. 
+
+Q2: Curt Jaimungal: Can you elaborate on the Strocci-Heslot formulation?
+
+A2: Interviewee: The Strocci-Heslot formulation is a framework that shows any quantum system in Hilbert space language can be rewritten in a way that looks just like a classical Hamiltonian system for a system of coupled harmonic oscillators. This formulation brings out the analogy with quantum mechanics even tighter.
+
+Q3: Curt Jaimungal: Can you explain the connection between the enhanced set of symmetries and the basis rotations in quantum mechanics?
+
+A3: Interviewee: There's a close connection between the enhanced set of symmetries and the basis rotations in quantum mechanics. This connection also sees the emergence of complex numbers in the Hamiltonian formulation.
+
+Q4: Curt Jaimungal: Why is the dynamical equation of quantum mechanics Markovian?
+
+A4: Interviewee: The dynamical equation of quantum mechanics is Markovian because as you do this change of representation, you can see how we took a non-Markovian thing and wrote it as a Markovian kind of evolution at the cost of introducing all of these weird new ingredients.
+
+Q5: Curt Jaimungal: Can you explain why the evolution law is linear?
+
+A5: Interviewee: The evolution law is linear because ordinary probability has a linear law. This linear relationship becomes the linearity of time evolution of quantum mechanics.
+
+Q6: Curt Jaimungal: Can you explain where unitarity comes from?
+
+A6: Interviewee: Unitarity comes from a class of indivisible processes called unistochastic processes. These are exactly the processes that when you run them through the stochastic quantum correspondence, on the other side you end up with unitary evolution.
+
+Q7: Curt Jaimungal: Can you explain the concept of a quantum channel?
+
+A7: Interviewee: A quantum channel is also known as a linear, completely positive, trace-preserving map. These are well-studied in the quantum information literature. The mapping from the indivisible stochastic processes to the Hilbert space picture can be represented by a quantum channel.
+
+Q8: Curt Jaimungal: Can you explain the concept of dilation of the Hilbert space?
+
+A8: Interviewee: Dilation of the Hilbert space is a simple change of representation that allows you to implement the evolution in a unitary way. This gives an explanation of where unitarity comes from, where that axiom that the time evolution should be unitary, it emerges from this set of transformations.
+
+Question: 
+Curt Jaimungal: Let's see if I understand this correctly and I can simplify this. So Markovian, let's understand what Markovian means. This means your system, you look at the present state and you can determine the next state. Okay. When we say the present state, we tend to think, oh, Newtonian mechanics is Markovian because you say, well, let's specify the position and then maybe the mass and then the velocity as well now. But then you're saying, well, what is the velocity? It's actually the position just an infinitesimal time ago. So you could introduce a new variable called velocity, or you could just think of what the time is now and what the time was ago, making it non-Markovian because it's now no longer the present. This is equivalent, I believe, it's equivalent to Newtonian, the Newtonian formulation. But in what we're taught as the Newtonian formulation, you've introduced something new. So you're saying that, look, in that similar manner, we can make an analogy here where there's these indivisible stochastic processes, these little guys operating around here. What exactly are they? I'm going to ask you about that afterward, but they're operating here and they're stochastic. What about all of these? You're saying they correspond to quantum mechanics, how? Quantum mechanics is linearity, unitarity, superposition, interference. Are you suggesting that when we take this non-Markovian and we make it Markovian, that just as in the Newtonian case, we introduce something new, that we're introducing something new and those correspond to linearity, superposition, interference, and so on?
+
+Answer: 
+Interviewee: Yeah. Yeah. And complex structure and the ability to change bases and all this stuff, they all, it's exactly right. It's exactly right.
+
+Question: 
+Curt Jaimungal: So now the question that the audience has or had is how do you deal with interference experiments? Also, we can get to it in order, if you like, Bell, what does it say about the Bell's inequality and what are the beables exactly in this framework, this formulation?
+
+Answer: 
+Interviewee: Let me start with the interference experiment ones. Let's start there. So the simplest answer to that question is if there's a mathematical duality or representation that takes you from an indivisible stochastic process to this Hilbert space picture, and let me just quickly say, the mapping is not one-to-one. It's many-to-many. A given indivisible stochastic process may have many Hilbert space representations and a given Hilbert space representation can represent many different indivisible stochastic processes, but this is not new. The same relationship holds for Newtonian systems and Hamiltonian formulation. A single Newtonian system can have multiple different Hamiltonian formulations and a single Hamiltonian formulation can represent many different Newtonian systems. So this is not like a new thing. Okay. But the point is that these indivisible systems do have this representation in this sort of Hilbert space picture, and the representation is just math. I mean, every Hilbert space picture can be regarded as an indivisible stochastic system in disguise and vice versa. So any predictions you make with a Hilbert space picture are going to be preserved. The explanation though is going to be different. So let's take the double slit experiment, and this is actually going to be helpful because I think one question someone had was, can I give a hello world example? You know, computer programming, the simplest program you write is something that just prints hello world. What's the simplest example I can give? I'll give you a simple example. Let's consider a double slit experiment.
+
+**Question:** How useful is philosophy to physics, especially the parts that are not super connected to math and physics?
+
+**Answer:** A lot of people often think about the parts of philosophy that are not super connected to math and physics. However, many of these people would say that Bursch and Russell, who were analytic philosophers, had a good thing to say about physics. They were like one of the towering analytic philosophers. The early people who developed quantum physics and quantum mechanics were deeply enmeshed in philosophy. 
+
+**Question:** Can you talk about the relationship between philosophy and physics in the early 20th century?
+
+**Answer:** There was an incredible amount of cross-pollination between the analytic philosophers of the early 20th century and physicists. Physicists themselves were thoroughly trained in philosophy. For example, Albert Einstein was doing a lot of philosophy. He'd read Kant's Three Critiques by age 16. When he went to university, there were mandatory courses in philosophy of science. Both at the university and then after he left university, he ran a philosophy of science reading club. He was deeply immersed in Spinoza. He was very inspired by Ernst Mach. He even wrote an obituary for Ernst Mach in which he talks about the importance of epistemology. He says, the ablest students, the ones who are most independent of thought, are the ones who took epistemology the most seriously. 
+
+**Question:** What is the importance of philosophy in creating new breakthroughs in physics?
+
+**Answer:** The people who gave us the biggest revolutions in modern physics, quantum theory and relativity, were all either deep, strongly connected to philosophers, or they were interacting with philosophers, or they were philosophers, or they were at least very thoroughly trained in philosophy. If you were trying to create new breakthroughs in physics, wouldn't you take that as an example? We need people who are thoroughly trained in physics and thoroughly trained in philosophy so that they don't say nonsense things. So they actually make meaningful contributions and help bring these two disciplines together. 
+
+**Question:** What is the role of philosophy in fostering independence and precision of thought?
+
+**Answer:** Philosophy trains you to have independence of thought and precision of thought. In philosophy seminars, especially in philosophy of science or philosophy of physics or analytic philosophy, the level of precision in your language is high. If you say something that is not very carefully stated, people will immediately say, I'm sorry, that's too vague. And you like precisify that. Because you don't have the ability to rely on empirical data, you rely on the strength of your logical reasoning in a very significant way. 
+
+**Question:** How does the culture of philosophy seminars differ from that of physics seminars?
+
+**Answer:** In philosophy seminars, what often happens is you'll have a talk, half hour, 45 minutes, sometimes they go an hour, then there's a break. People go and they take five minutes, they get refreshments, they come back, and then there's like an hour of discussion. The discussion is often the most interesting part of the seminar. And because there's like an hour, everybody asks questions, the students ask questions, because no one is afraid they're asking the one question. No one's afraid they're going to look bad because there's going to be 10 more questions after their question. And people can really have a substantive discussion and dialogue. 
+
+**Question:** How can the precision of language in philosophy be brought to bear in physics?
+
+**Answer:** I think the precision of language in philosophy could be brought to bear in how we do physics more than we currently do it. We need to hold people accountable, have extended like discussion, really get to the deep parts of people's ideas, not letting people get away with slogans.
