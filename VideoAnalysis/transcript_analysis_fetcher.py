@@ -1,10 +1,8 @@
 import openai
 import os
-from youtube_transcript_api import YouTubeTranscriptApi
-from youtube_transcript_api._errors import TranscriptsDisabled
 import tiktoken
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("APIKEY")
 
 tokenizer = tiktoken.get_encoding("cl100k_base")  # This is the encoding for GPT-4
 
@@ -29,6 +27,30 @@ def clean_transcript(full_text, fileToWrite):
                     messages=[
                         {"role": "system", "content": "You are a helpful assistant that cleans transcripts, improves readability, and analyzes it"},
                         {"role": "user", "content": f"Clean this transcript for better readability, and organize it into a set of questions and answers between the host, Curt Jaimungal, and the interviewee. - Use only explicitly stated questions and answers from the transcript with the relevant context around it. - Do not infer or create new questions from introductory or contextual statements. - If a statement is not a direct question, it should not be rephrased or converted into one. - Make sure to include all text after the question that is answering it. Here is the transcript:\n\n{chunk}"
+                        }
+                    ]
+                )
+                response = response['choices'][0]['message']['content']
+                file.write(response + "\n\n")
+            except openai.OpenAIError as e:
+                print(f"Open AI error: {e}")
+            except Exception as e:
+                print(f"An unexpected error occurred: {e}")
+
+    
+def fix_puctuation_grammar(full_text, fileToWrite):
+    chunk_size = 14000  
+    chunks = [full_text[i:i + chunk_size] for i in range(0, len(full_text), chunk_size)]
+
+    with open(fileToWrite, "a", encoding="utf-8") as file:
+        for chunk in chunks:
+            try:
+                response = openai.ChatCompletion.create(
+                    model="gpt-4",
+                    temperature=0,
+                    messages=[
+                        {"role": "system", "content": "You are a helpful assistant that cleans transcripts, improves readability, and analyzes it"},
+                        {"role": "user", "content": f"For the whole transcript, please put the appropriate puctuation where needed. Please do not change or rephrase anything else. Here is the transcript:\n\n{chunk}"
                         }
                     ]
                 )
@@ -114,5 +136,8 @@ def analyze_transcript(full_text, fileToWrite, use_chunks):
 #full_text_6 = read_transcript_from_file("Transcripts/Video6_Matthew_Segall.txt")
 #clean_transcript(full_text_6, "QAndA/Video6_Cleaned_Transcript.txt")
 
-full_text_7 = read_transcript_from_file("Transcripts/Video7_Jacob_Barandes.txt")
-clean_transcript(full_text_7, "QAndA/Video7_Cleaned_Transcript.txt")
+#full_text_7 = read_transcript_from_file("Transcripts/Video7_Jacob_Barandes.txt")
+#clean_transcript(full_text_7, "QAndA/Video7_Cleaned_Transcript.txt")
+
+#full_text_8 = read_transcript_from_file("Transcripts/Video8_Free_Will_Documentary.txt")
+#fix_puctuation_grammar(full_text_8, "Transcripts/Video8_Free_Will_Documentary_Edited.txt")
